@@ -3,7 +3,7 @@ body {
   background-color: green;
 }
 .card {
-  display: inline-block;
+  display: center;
   margin: auto;
   height: 450px;
   width: 300px;

@@ -39,7 +39,7 @@ let generadorRandomNumbers = () => {
     "10",
     "J",
     "Q",
-    "K",
+    "K"
   ];
   let indexNumbers = Math.floor(Math.random() * numbers.length);
   return numbers[indexNumbers];
